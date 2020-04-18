@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://www.omdbapi.com/",
+    "chromeWebSecurity": false,
+    "video": false,
+    "defaultCommandTimeout": 60000,
+    "requestTimeout": 60000,
+    "responseTimeout": 60000
+}
