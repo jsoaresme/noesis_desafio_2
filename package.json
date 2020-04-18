@@ -1,22 +1,14 @@
 {
   "name": "noesis_desafio_2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Noesis Desafio 2",
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
     "cy:run": "cypress run"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jsoaresme/noesis_desafio_2.git"
-  },
   "author": "Jonathan Eleuterio",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jsoaresme/noesis_desafio_2/issues"
-  },
-  "homepage": "https://github.com/jsoaresme/noesis_desafio_2#readme",
   "dependencies": {
     "cypress": "^4.4.0"
   }
